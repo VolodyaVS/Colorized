@@ -60,8 +60,8 @@
 			children = (
 				FF28E8FD253E1C3300AC578A /* ColorizedApp.swift */,
 				FF28E90F253E1CE000AC578A /* ColorView.swift */,
-				FF28E913253E1E9500AC578A /* ColorSlider.swift */,
 				FF19EBD8253F8BCE00E91963 /* TextFieldSliderValue.swift */,
+				FF28E913253E1E9500AC578A /* ColorSlider.swift */,
 				FF28E8FF253E1C3300AC578A /* ContentView.swift */,
 				FF28E901253E1C3400AC578A /* Assets.xcassets */,
 				FF28E906253E1C3400AC578A /* Info.plist */,
